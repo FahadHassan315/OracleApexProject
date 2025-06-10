@@ -32,7 +32,7 @@ The app not only stores data but actively computes and displays summary insights
 oracle-apex-business-dashboard/
 ├── README.md
 ├── AFU PROJECT REPORT.pdf/ # Project Report with details
-├── Oracle Apex Project.sql/ # Full Oracle APEX app export
+├── ApplicationFile.sql/ # Full Oracle APEX app export
 ├── Project screenshots/
 │ └── AFUsc1.Jpeg # UI screenshots
 │ └── AFUsc2.Jpeg # UI screenshots
@@ -49,12 +49,12 @@ To run this project on your own Oracle APEX workspace:
 - Log in to [apex.oracle.com](https://apex.oracle.com) or your Oracle APEX instance.
 - Go to **App Builder > Import**.
 - Upload and install the file:  
-  `Oracle APex Project.sql`
+  `ApplicationFile.sql` #Find in Github Repo
 
 ### 2. **Create the Database Schema**
 - Go to **SQL Workshop > SQL Scripts**.
 - Upload and run:  
-  `Schema Scripts.sql`  
+  `Schema Scripts.sql`  #Find in Github Repo
   *(This will create all necessary tables, constraints, etc.)*
 
 
