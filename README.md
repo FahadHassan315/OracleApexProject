@@ -51,18 +51,14 @@ To run this project on your own Oracle APEX workspace:
 - Log in to [apex.oracle.com](https://apex.oracle.com) or your Oracle APEX instance.
 - Go to **App Builder > Import**.
 - Upload and install the file:  
-  `app_export/my_apex_app.sql`
+  `Oracle APex Project.sql`
 
 ### 2. **Create the Database Schema**
 - Go to **SQL Workshop > SQL Scripts**.
 - Upload and run:  
-  `database/schema_ddl.sql`  
+  `Schema Scripts.sql`  
   *(This will create all necessary tables, constraints, etc.)*
 
-### 3. **Load Sample Data** (if included)
-- Run:  
-  `database/sample_data.sql`  
-  *(This will populate tables with example entries for testing.)*
 
 ---
 
