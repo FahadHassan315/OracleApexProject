@@ -31,15 +31,13 @@ The app not only stores data but actively computes and displays summary insights
 
 oracle-apex-business-dashboard/
 ├── README.md
-├── app_export/
-│ └── my_apex_app.sql # Full Oracle APEX app export
-├── database/
-│ ├── schema_ddl.sql # Table and object creation scripts
-│ └── sample_data.sql # Optional sample data (if included)
-├── screenshots/
-│ └── dashboard_view.png # UI screenshots
-└── docs/
-└── project_notes.pdf # Optional notes or diagrams
+├── AFU PROJECT REPORT.pdf/ # Project Report with details
+├── Oracle Apex Project.sql/ # Full Oracle APEX app export
+├── Project screenshots/
+│ └── AFUsc1.Jpeg # UI screenshots
+│ └── AFUsc2.Jpeg # UI screenshots
+│ └── AFUsc3.Jpeg # UI screenshots
+└── Schema Script/  # Table/Schema Scripts
 
 ---
 
@@ -64,7 +62,7 @@ To run this project on your own Oracle APEX workspace:
 
 ## 📸 Screenshots
 
-![Dashboard View](screenshots/dashboard_view.png)
+![Dashboard View](Project Screenshots/AFUsc1.Jpeg)
 *Main dashboard showing key business metrics.*
 
 ---
