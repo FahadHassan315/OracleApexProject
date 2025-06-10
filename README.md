@@ -62,7 +62,7 @@ To run this project on your own Oracle APEX workspace:
 
 ## 📸 Screenshots
 
-![Dashboard View](Project Screenshots/AFUsc1.Jpeg)
+Inside the Project Screenshots folder
 *Main dashboard showing key business metrics.*
 
 ---
